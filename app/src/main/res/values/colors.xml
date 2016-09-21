@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Text">#424242</color>
+
+    <!--Button on menu page-->
+    <color name="newEvent">#8C9EFF</color>
+    <!--Button on menu page-->
+    <color name="oldEvent">#FF80AB</color>
+</resources>

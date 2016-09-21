@@ -1,0 +1,10 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--Name of app-->
+    <string name="app_name">Joe\'s application</string>
+    <!--Button on menu page-->
+    <string name="new_event">New Event</string>
+    <!--Button on menu page-->
+    <string name="old_event">See Previous Events</string>
+    
+    <string name="active_event">Active Event</string>
+</resources>
